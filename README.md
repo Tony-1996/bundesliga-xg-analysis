@@ -11,6 +11,7 @@ This project evaluates the finishing efficiency of Bundesliga teams over five se
 ## Key Findings
 * VfL Wolfsburg ranked **9th out of 12** core Bundesliga clubs in 5-year finishing efficiency.
 * The team operated with a chronic negative xG differential, indicating a structural inability to convert high-probability chances rather than sudden misfortune.
+<img width="1502" height="902" alt="summary_table" src="https://github.com/user-attachments/assets/cc9529cc-7508-4f9c-a370-4a013dccf26f" />
 
 ## Reproducibility
 To run this analysis locally:
