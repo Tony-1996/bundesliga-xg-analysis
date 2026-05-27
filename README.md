@@ -9,9 +9,14 @@ This project evaluates the finishing efficiency of Bundesliga teams over five se
 * **Data Provenance:** Understat.
 
 ## Key Findings
-* VfL Wolfsburg ranked **9th out of 12** core Bundesliga clubs in 5-year finishing efficiency.
+* VfL Wolfsburg ranked **9th out of 13** core Bundesliga clubs in 5-year finishing efficiency.
 * The team operated with a chronic negative xG differential, indicating a structural inability to convert high-probability chances rather than sudden misfortune.
 <img width="1502" height="902" alt="summary_table" src="https://github.com/user-attachments/assets/cc9529cc-7508-4f9c-a370-4a013dccf26f" />
+
+## Limitations & Future Scope
+* **Scope of Analysis:** This project specifically isolates attacking finishing efficiency (Goals vs. xG) as a primary indicator of systemic decay.
+* **Defensive Metrics:** Relegation is a multi-faceted failure. This analysis does not currently evaluate defensive performance, such as Expected Goals Against (xGA) or Goalkeeper Prevented Goals. 
+* **Future Work:** A subsequent iteration of this dashboard will incorporate defensive metrics to provide a holistic view of the Expected Points (xPTS) differential.
 
 ## Reproducibility
 To run this analysis locally:
